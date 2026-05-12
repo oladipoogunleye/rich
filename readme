@@ -4,7 +4,7 @@ Steps needed to fork a repo:
 1. Paste the link in your browser
 2. Fork the repo
 3. copy the repo link from code
-4. create a folder in your desktop
+4. create a folder in your desktop i.e practice
 5. Open with vscode
 6. Open the terminal and run the command:
 
@@ -14,7 +14,8 @@ git clone repo-link
 
 cd repo-name
 
-8. create a readme folder and push to github
+8. create a readme folder and push to github i.e name.md
+The content of the the folder should be the date and time
 
 git add .
 git commit -m "add message here"
